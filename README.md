@@ -1,4 +1,4 @@
 # honorencrypt
 --------------
 
-You can try it live now -> https://www.onurogut.com/honorencrypt
+You can try it live now -> https://onurogut.com/honorencrypt
